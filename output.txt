@@ -1,0 +1,54 @@
+=== PYTHON CALCULATOR ===
+1. Basic Calculator
+2. Scientific Calculator
+3. Calculation History
+4. Exit
+Enter choice: 1
+Enter first number: 4
+Enter operation (+, -, *, /, %, **): **
+Enter second number: 5
+Result: 1024.0
+
+=== PYTHON CALCULATOR ===
+1. Basic Calculator
+2. Scientific Calculator
+3. Calculation History
+4. Exit
+Enter choice: 2
+
+Scientific operations: sqrt, sin, cos, tan, log, ln, factorial
+Enter operation: sin
+Enter value: 45
+Result: 0.7071067811865475
+
+=== PYTHON CALCULATOR ===
+1. Basic Calculator
+2. Scientific Calculator
+3. Calculation History
+4. Exit
+Enter choice: 2
+
+Scientific operations: sqrt, sin, cos, tan, log, ln, factorial
+Enter operation: sin
+Enter value: 90
+Result: 1.0
+
+=== PYTHON CALCULATOR ===
+1. Basic Calculator
+2. Scientific Calculator
+3. Calculation History
+4. Exit
+Enter choice: 3
+
+=== CALCULATION HISTORY ===
+1. 4.0 ** 5.0 = 1024.0
+2. sin(45.0) = 0.7071067811865475
+3. sin(90.0) = 1.0
+
+=== PYTHON CALCULATOR ===
+1. Basic Calculator
+2. Scientific Calculator
+3. Calculation History
+4. Exit
+Enter choice: 4
+Thank you for using Python Calculator.
